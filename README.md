@@ -6,3 +6,5 @@ Finally,
 1.	We add tectonic plate data using **d3.json()**, add the data using the **geoJSON()** layer as a second layer group, set the tectonic plate **LineString** data to stand out on the map, and add the tectonic plate data  to the overlay object with the earthquake data.
 2.	We add major earthquake data as a third layer group to the map using **d3.json()**, and a color and set the radius of the circle based on the magnitude of earthquake, and add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, **geoJSON()**.
 3.	We add a third map style **(navigation-night)** to the earthquake map.
+
+![night.PNG](https://github.com/tjavaheripour/Mapping_Earthquakes/blob/main/night.PNG)
